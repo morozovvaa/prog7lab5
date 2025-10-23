@@ -190,17 +190,4 @@ Django/
 ![Статистика для выбранного голосования](https://github.com/user-attachments/assets/77d4bdce-7207-4c1c-83ee-acb9e64ecd73)
 
 
-главная страница с вкладкрй статистика
-<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/9242001f-4ec4-4bcf-ac03-77f2aaeb3455" />
-
-страница статистики
-<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/cf044726-0e1a-4e3a-931b-4086c0b95612" />
-
-фильтрация по дате
-<img width="708" height="663" alt="image" src="https://github.com/user-attachments/assets/7936acec-e45f-49fc-8eb3-b68ef2cf5d58" />
-
-статистика для выбранного голосования
-<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/77d4bdce-7207-4c1c-83ee-acb9e64ecd73" />
-
-
 
